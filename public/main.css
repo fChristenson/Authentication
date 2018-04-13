@@ -1,0 +1,8 @@
+:focus {
+  outline: orange 3px solid;
+}
+
+body {
+  background-color: steelblue;
+  color: white;
+}
